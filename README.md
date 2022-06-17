@@ -11,8 +11,8 @@
   <a href="https://www.linkedin.com/in/vinicius-testa-passos-408689210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div width="100px">
+<div>
  
-  ![Bandeira do Brasil](https://github.com/danmadeira/bandeira-nacional/blob/master/img/Bandeira_do_Brasil.svg)
+  ![Bandeira do Brasil](https://github.com/matheusd-oliveira/matheusd-oliveira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
